@@ -1,6 +1,0 @@
-@_1.WebApi_HandsOn_HostAddress = http://localhost:5110
-
-GET {{_1.WebApi_HandsOn_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
